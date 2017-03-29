@@ -11,7 +11,7 @@
 
 \title{La folie des grandeurs}
 \subtitle{Le monde est fou}
-\author{Tristan, Alexis, Thomas, Thibaut}
+\author{Alexis, Thomas, Thibaut, Tristan}
 
 \begin{document}
 
@@ -29,7 +29,9 @@
     \end{multicols}
 \end{frame}
 
-\section{La folie}
+\section{Pourquoi le monde serait-il fou ?}
+
+\subsection{La folie}
 
 \begin{frame}
   \begin{displayquote}
@@ -40,11 +42,115 @@
 \end{frame}
 
 \begin{frame}
-  \begin{itemize}
-    \item réaction inappropriée ou disproportionnée face à la perception de la réalité. Relatif à un individu ou un groupe d'individus~;
-    \item Action sans but, homme lunatique.
-  \end{itemize}
+	\begin{itemize}
+		\item réaction inappropriée ou disproportionnée face à la perception de la réalité. Relatif à un individu ou un groupe d'individus~;
+		\item action irrationelle~;
+		\item action non incluse dans la norme.
+	\end{itemize}
 \end{frame}
+
+
+\subsection{La vision de groupe}
+
+\begin{frame}
+	Folie~: différent de la norme.
+	
+	Norme relative à un groupe.
+\end{frame}
+
+\begin{frame}
+	Norme comme vision de la majorité.
+	
+	Normes rationnelles ?
+\end{frame}
+
+\begin{frame}
+	Instrumentalisation de la norme~:
+	\begin{itemize}
+	 \item états~: guerre froide, URSS~;
+	 \item opinions~: veganisme, contre arguments peu rationnelles.
+	\end{itemize}
+\end{frame}
+
+\subsection{La folie de la norme} % TODO: revoir le titre
+
+\begin{frame}
+	Jugement de la folie difficile, presque impossible.
+
+	Ligne de conduite rationellement folles, normes incohèrentes.
+\end{frame}
+
+\begin{frame}
+	Les normes sont irrationelles~:
+	\begin{itemize}
+	 \item critères subjectifs~;
+	 \item muable~: critère esthétique~;
+	 \item relative~: depends de la société.
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	Les guerre sont irrationelles~:
+	\begin{itemize}
+	 \item prix de la vie plus faible que le but de la guerre.
+	\end{itemize}
+\end{frame}
+
+
+\section{Comment cette folie s'exprime-t-elle ?}
+
+\subsection{L'économie}
+
+\begin{frame}
+	Contrôle d'un travail réel par de l'argent virtuel, par exemple les fluctuations de la bourse.
+
+	La variation de la valeur d'un travail est rationelle ?
+\end{frame}
+
+\subsection{La démesure}
+
+\begin{frame}
+  Démesure~: sortir de la mesure~; indéfini.
+
+  Relatif aux sociétés et à leurs époques, toujours chercher plus grand.
+
+	Si la démesure est observée elle est alors mesurable~: démesure restreinte à l'imagination ?
+\end{frame}
+
+\begin{frame}
+	
+\end{frame}
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \section{Le monde est fou}
 
@@ -63,11 +169,14 @@
   Penser comme tout le monde est un risque de mal interpréter la réalité~: actions inappropriées, aliénation à la masse.
 \end{frame}
 
-\begin{frame}
-	Sciences alternatives~:
+\begin{frame}{Sciences alternatives}
 	\begin{itemize}
 	 \item le scientisme est une vision du monde, apparue au XIXe siècle~;
-	 \item 
+	 \item Énergie libre
+		\begin{center}
+			\includegraphics[width=5cm]{../Images/energie_libre.png}
+		\end{center}
+
 	\end{itemize}
 
 \end{frame}
@@ -78,6 +187,11 @@
   \begin{center}
     \includegraphics[width=5cm]{../Images/secte.png}
   \end{center}
+\end{frame}
+
+\begin{frame}{Le monde est condamné à être fou}
+  On glorifie ce qui sort de l'ordinaire pcq notre modèle globalisé nous force à nous démarquer : c'est la folie qui nous fait évoluer.
+
 \end{frame}
 
 \section{Folie des grandeurs}
@@ -94,7 +208,6 @@
   Relatif aux sociétés et à leurs époques, chercher plus grand.
 \end{frame}
 
-\subsection{Besoins artificiels}
 \begin{frame}{Besoins artificiels}
   \begin{itemize}
     \item l'homme ne se contente jamais de ce qu'il possède~;
@@ -118,23 +231,21 @@
     Nous avons la capacité de détruire plusieurs fois la planète.
     \includegraphics[width=10cm]{../Images/bombe.jpg}
   \end{center}
- 
+
+\end{frame}
+
+\begin{frame}{Conclusion}
+  \begin{center}
+    Les désirs de l'homme semblent sans fin. \\
+    $=>$ changer de paradigme ?
+
+  \end{center}
+
 \end{frame}
 
 \end{document}
 
-\subsection{Stade 2 : Isolement et sectes}
-\begin{frame}{Stade 2 : Isolement et sectes}
-  \begin{center}
-    Le refus du monde s'exprime à travers le refus de la masse : exclusion.
-    \includegraphics[width=10cm]{../Images/secte.png}
-  \end{center}
-\end{frame}
 
-\subsection{Stade 3 : Destruction}
-\begin{frame}{Stade 3 : Destruction}
-
-\end{frame}
 
 
 \section{La société}
@@ -148,26 +259,10 @@
 \subsection{Productivisme et consumérisme}
 
 
-\subsection{Auto-glorification culturelle}
-\begin{frame}{Auto-glorification culturelle}
-  Clichés sur les autres : sentiment de supériorité et nationalismes
-\end{frame}
-
 
 \section{Grandeur et démesure}
 
 \subsection{Repousser les frontières au-delà de la terre}
 \begin{frame}{Repousser les frontières au-delà de la terre}
   Espace
-\end{frame}
-
-\subsection{Pas de génie sans folie : la recherche d'un autre idéal}
-\begin{frame}{Pas de génie sans folie : la recherche d'un autre idéal}
-  Folie créatrice
-\end{frame}
-
-\subsection{Le monde est condamné à être fou}
-\begin{frame}{Le monde est condamné à être fou}
-  On glorifie ce qui sort de l'ordinaire pcq notre modèle globalisé nous force à nous démarquer : c'est la folie qui nous fait évoluer.
-
 \end{frame}
